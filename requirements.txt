@@ -1,1 +1,10 @@
-# Add project dependencies here
+streamlit
+groq
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+python-dotenv
+pypdf
+numpy
+pandas
